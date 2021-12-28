@@ -148,6 +148,7 @@ body{
   width: 1320px;
   margin:80px auto;
   text-align: center;
+  overflow: hidden;
 }
 .c1_in ul li{
   width: 50%;
@@ -188,6 +189,7 @@ b{
   width: 1320px;
   margin: 140px auto;
   height: 1000px;
+  overflow: hidden;
 }
 .con2 ul{
   height: 950px;
